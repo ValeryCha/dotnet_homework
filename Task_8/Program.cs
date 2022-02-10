@@ -1,4 +1,5 @@
-﻿int a;
+﻿// Показать четные числа от 1 до N
+int a;
 int i = 1;
 Console.WriteLine("Введите число ");
 a = Convert.ToInt32(Console.ReadLine());
