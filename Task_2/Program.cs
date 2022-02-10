@@ -1,4 +1,5 @@
-﻿int max, min;
+﻿// Даны два числа. Показать большее и меньшее число
+int max, min;
 
 Console.WriteLine("Введите два числа ");
 max = Convert.ToInt32(Console.ReadLine());
