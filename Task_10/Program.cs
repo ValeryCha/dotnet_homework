@@ -1,4 +1,5 @@
-﻿int a;
+﻿// Показать вторую цифру трёхзначного числа
+int a;
 
 Console.WriteLine("Введите число ");
 a = Convert.ToInt32(Console.ReadLine());
