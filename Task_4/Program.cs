@@ -1,4 +1,5 @@
-﻿int a, b, c;
+﻿// Найти максимальное из трех чисел
+int a, b, c;
 
 Console.WriteLine("Введите числа ");
 a = Convert.ToInt32(Console.ReadLine());
