@@ -1,4 +1,5 @@
-﻿int a;
+﻿// Выяснить является ли число чётным
+int a;
 Console.WriteLine("Введите число ");
 a = Convert.ToInt32(Console.ReadLine());
 
